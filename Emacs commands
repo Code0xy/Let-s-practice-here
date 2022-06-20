@@ -1,0 +1,8 @@
+Command to create a directory in emacs.  mkdir filename
+Command to open a file from within emacs.  echo C-x C-f
+Command to cut an entire line.  echo C-k
+Command to save a file in emacs. echo C-x C-s
+Command to paste.  echo C-y 
+Command to search forward. echo C-s
+Command to quit emacs. echo C-x C-c
+Command to undo. echo C-x u (example, echo C-x u > undoing)
